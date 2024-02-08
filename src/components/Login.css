@@ -1,0 +1,95 @@
+
+.container{
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 140px;
+   
+
+    padding-bottom: 30px;
+    margin-inline-end:30%;
+
+    
+}
+.input{
+
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 80px;
+
+    border-radius: 12px;
+
+} 
+
+header{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:9px;
+    width:100%;
+    margin-top:30px;
+    margin-inline-end: 10px;
+ 
+
+}
+ .text{
+    width:61 px;
+height: 6px;
+
+border-radius: 9px;
+margin-inline-start: 100px;
+
+   
+ }
+
+
+.underline{
+    color:rgb(9, 34, 56);
+    font-size:50px;
+    font-weight:700; 
+margin-inline-start: 60px;
+margin-bottom: 40px;
+} 
+
+.input img{
+    margin: 0px 20px;
+}
+.inputs input{
+    height: 50px;
+    width: 400px;
+    background: transparent;
+    border-radius: 9px;
+    font-size: 15px;
+    background: rgba(0,0,0,0.39);
+  color: whitesmoke;
+    
+}
+.forget_pass{
+    padding-left: 62px;
+    margin-top: 27px;
+    color: rgb(63, 29, 184);
+    font-size: 18px;
+}
+.submit{
+    padding-left: 62px;
+    margin-top: 27px;
+    color: rgb(63, 29, 184);
+    font-size: 18px;
+    display:inline;
+   
+  
+}
+button{
+    background: transparent;
+    font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  
+  
+}
+.forget_pass span button{
+    cursor: pointer;
+    color: rgb(49, 62, 242);
+}

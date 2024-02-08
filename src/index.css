@@ -1,0 +1,6 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+height:100vh;
+background: linear-gradient(rgb(57, 62, 204),rgb(121, 202, 133));
+z-index: 1;
+}
