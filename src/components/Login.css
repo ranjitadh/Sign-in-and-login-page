@@ -93,3 +93,13 @@ button{
     cursor: pointer;
     color: rgb(49, 62, 242);
 }
+.toogle{
+    display: flex;
+    align-items: center;
+    margin-left: 13.2cm;
+    margin-top: -4.78cm;
+    background: #fff;
+    width: 3vw;
+    height: 6vh;
+    
+}
