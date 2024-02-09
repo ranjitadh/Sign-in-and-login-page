@@ -103,3 +103,13 @@ button{
     height: 6vh;
     
 }
+.toogleSU{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    width: 3vw;
+    height: 6vh;
+    margin-left: 14.8cm;
+    margin-top: -3cm;
+
+}
